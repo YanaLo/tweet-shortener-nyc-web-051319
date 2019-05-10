@@ -9,13 +9,13 @@ def word_substitutor(words)
       when "to","two","too"
         another_word<<"2"
         when "for", "four" 
-        another_word<<'4'
+        another_word<<"4"
         when "be"
         another_word<<"b"
         when "you"
         another_word<<"u"
         when "at"
-        another_word<<'@'
+        another_word<<"@"
         when "and"
         another_word<<'&'
       else 
