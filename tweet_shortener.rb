@@ -2,6 +2,6 @@
 def dictionary(words)
   subs=words.split(" ")
   another_word=[]
-  
+  subs.each do 
   
   
