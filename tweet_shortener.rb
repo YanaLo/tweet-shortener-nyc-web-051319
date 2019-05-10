@@ -10,4 +10,5 @@ def dictionary(words)
         another_word<<"2"
         when "for "four" 
         another_word<<'4'
+        when 
   
