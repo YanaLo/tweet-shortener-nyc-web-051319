@@ -20,4 +20,7 @@ def dictionary(words)
         another_word<<"&"
       else 
       another_word<<word
+    end
+  end
+  another_word.join(" ")
   
