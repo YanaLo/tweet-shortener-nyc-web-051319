@@ -26,11 +26,7 @@ end
 end
 
 def bulk_tweet_shortener(array)
-array.each do |word|
-word=word_substituter|word|
- puts "#{word}"
-end
-end
+array.each{
 
 
 
