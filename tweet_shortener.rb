@@ -6,4 +6,6 @@ def dictionary(words)
     case word.downcase
     when "hello"
       another_word<<"hi"
-      when 
+      when "to" "two" "too"
+        another_word<<"2"
+  
