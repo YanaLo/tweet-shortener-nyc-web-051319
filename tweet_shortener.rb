@@ -27,7 +27,7 @@ end
 
 def bulk_tweet_shortener(array)
 array.each do |word|
-array
+word=
 
 
 
