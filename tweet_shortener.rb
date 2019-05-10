@@ -25,7 +25,8 @@ end
   another_word.join(" ")
 end
 
-def 
+def bulk_tweet_shortener(array)
+
 
 
 
