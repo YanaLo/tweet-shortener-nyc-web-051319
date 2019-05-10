@@ -26,7 +26,7 @@ end
 end
 
 def bulk_tweet_shortener(array)
-array.each{|i|
+array.each{|i| puts word_substituter
 
 
 
