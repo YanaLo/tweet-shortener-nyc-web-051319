@@ -17,7 +17,7 @@ def word_substitutor(words)
         when "at"
         another_word<<"@"
         when "and"
-        another_word<<'&'
+        another_word<<"&"
       else 
       another_word<<word
   end
