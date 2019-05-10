@@ -5,7 +5,7 @@ def dictionary(words)
   subs.each do |word|
     case word.downcase
     when "hello"
-      another_word="hi"
+      another_word<<"hi"
       when "to" "two" "too"
-        another_word=2
+        another_word<<"2"
   
