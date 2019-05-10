@@ -21,5 +21,6 @@ def dictionary(words)
       else 
       another_word<<word
   end
+end
   another_word.join(" ")
 end
