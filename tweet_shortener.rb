@@ -23,4 +23,3 @@ def dictionary(words)
   end
   another_word.join(" ")
 end
- end 
