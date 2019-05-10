@@ -1,5 +1,5 @@
 # Write your code here.
-def (words)
+def word_substituter(words)
   subs=words.split(" ")
   another_word=[]
   subs.each do |word|
