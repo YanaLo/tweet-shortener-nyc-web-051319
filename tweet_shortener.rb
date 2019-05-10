@@ -29,7 +29,8 @@ def bulk_tweet_shortener(array)
 array.each{|i| puts word_substituter(i)}
 end
 
-def selective_tweet_shortener
+def selective_tweet_shortener(array)
+
 
 
 
