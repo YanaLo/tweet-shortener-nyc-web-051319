@@ -24,3 +24,10 @@ def word_substituter(words)
 end
   another_word.join(" ")
 end
+
+def 
+
+
+
+
+
