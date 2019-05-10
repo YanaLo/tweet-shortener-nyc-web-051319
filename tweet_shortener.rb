@@ -4,6 +4,8 @@ def dictionary(words)
   another_word=[]
   subs.each do |word|
     case word.downcase
-    when 
+    when "hello"
+      another_word="hi"
+      
   
   
