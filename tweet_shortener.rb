@@ -18,4 +18,6 @@ def dictionary(words)
         another_word<<"@"
         when "and"
         another_word<<"&"
+      else 
+      another_word<<word
   
