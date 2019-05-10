@@ -1,4 +1,5 @@
 # Write your code here.
-def dictionary(words, sub)
+def dictionary(words)
+  
   
   
