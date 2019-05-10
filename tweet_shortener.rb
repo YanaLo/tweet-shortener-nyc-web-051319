@@ -15,7 +15,7 @@ def dictionary(words)
         when "you"
         another_word<<"u"
         when "at"
-        another_word<<"@"
+        another_word<<'@'
         when "and"
         another_word<<"&"
       else 
