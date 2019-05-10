@@ -30,7 +30,7 @@ array.each{|i| puts word_substituter(i)}
 end
 
 def selective_tweet_shortener(array)
-if array.length<140
+if array.length>140
 word_substituter(array)
 else 
 array
